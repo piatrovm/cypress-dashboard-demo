@@ -1,0 +1,22 @@
+{
+  "name": "cypress-dashboard-demo",
+  "version": "1.0.0",
+  "description": "pet project for testing cypress + git actions + dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piatrovm/cypress-dashboard-demo.git"
+  },
+  "author": "Maryana Piatrova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piatrovm/cypress-dashboard-demo/issues"
+  },
+  "homepage": "https://github.com/piatrovm/cypress-dashboard-demo#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
